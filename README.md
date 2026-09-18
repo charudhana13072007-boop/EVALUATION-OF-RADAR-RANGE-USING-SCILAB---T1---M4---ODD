@@ -1,4 +1,4 @@
-# EVALUATION-OF-RADAR-RANGE-USING-SCILAB---T1---M4---ODD
+# EVALUATION-OF-RADAR-RANGE-USING-SCILAB
 ## Aim
 To calculate the maximum range of a radar system using the Radar Range Equation and verify the results through Scilab programming.
 
@@ -37,4 +37,16 @@ Where:
 
 ---
 
-## MODEL GRAPH
+## Tabulation
+
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/c3d393bd-5371-416b-803d-fa1004b6d9eb" />
+
+
+## Output
+<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/c1f64fac-7f13-4060-9ff8-e265a78a814b" />
+
+
+## Result
+Thus, the maximum range of radar system using radar range equation is verified.
+
+
