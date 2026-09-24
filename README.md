@@ -45,9 +45,13 @@ Where:
 ## Output
 <img width="1080" height="799" alt="image" src="https://github.com/user-attachments/assets/589e6ae8-9ad1-4c60-9476-d4d7ff3c072c" />
 
+## mark splitup
+<img width="1600" height="568" alt="image" src="https://github.com/user-attachments/assets/4f79a449-aa3b-4f71-807c-dee9e7f30937" />
+
 
 
 ## Result
-Thus, the maximum range of radar system using radar range equation is verified.
+<img width="1600" height="747" alt="image" src="https://github.com/user-attachments/assets/6df4dc51-c252-43a5-b8a5-a9bd5edd78df" />
+
 
 
